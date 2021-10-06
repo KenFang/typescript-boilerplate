@@ -6,4 +6,4 @@ class Logger {
 
 const logger = new Logger();
 
-console.log("hello world");
+console.log("hello ken Fang");
